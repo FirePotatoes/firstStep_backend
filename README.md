@@ -1,7 +1,8 @@
 
 <div align="center">
   
-<img width="520" alt="스크린샷 2023-07-04 오후 8 29 46" src="https://github.com/FirePotatos/firstStep_backend/assets/106949598/a2ba9281-763e-41b3-bd15-908c8ed188f8">
+<img width="602" src="https://github.com/FirePotatos/firstStep_backend/assets/106949598/73e155f3-a7bf-402f-acaf-22819a839fff.png">
+
 
 
 <br>
