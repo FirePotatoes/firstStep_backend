@@ -17,7 +17,7 @@
 + 손소휘 (https://github.com/Sohwi-Son)
 + 마다현
 + 정은우
-+ 조민성
++ 조민성 (https://github.com/zeranimo)
 
 <br>
 
